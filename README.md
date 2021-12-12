@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Lahiru Amarasooriya
+- 👀 I’m interested in Mobile application development
+- 🌱 I’m currently learning Swift
