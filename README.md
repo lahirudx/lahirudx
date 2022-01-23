@@ -4,8 +4,8 @@ I am a Full Stack web and Mobile developer👨‍💻. Interested in new technol
 
 - 🔭 I’m currently working on Flutter, ReactJS, Nodejs.
 - 🍔 Currently learning Swift.
-- 💬 My website [Journal](https://lahirudx.com)
+- 💬 My website [website](https://lahirudx.com)
 
 ### 📫 Reach me at 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/lahiru_dx.svg?style=social&label=Follow%20%lahiru_dx)](https://twitter.com/lahiru_dx)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/lahiru_dx.svg?style=social&label=Follow%20lahiru_dx)](https://twitter.com/lahiru_dx)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lahirudx/)
