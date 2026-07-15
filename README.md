@@ -2,7 +2,7 @@
 I am a Full Stack web and Mobile developer👨‍💻. Interested in App Development.
 
 
-- 🔭 I’m currently working with ReactJS, React Native, Ionic Nodejs.
+- 🔭 I’m currently working with React Native, Swift, Flutter.
 - 🍔 Currently learning Swift.
 - 💬 My Portfolio  [lahirudx.com](https://lahirudx.com)
 
