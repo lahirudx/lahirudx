@@ -4,7 +4,7 @@ I am a Full Stack web and Mobile developer👨‍💻. Interested in App Develop
 
 - 🔭 I’m currently working with React Native, Swift, Flutter.
 - 🍔 Currently learning Swift.
-- 💬 My Portfolio  [lahirudx.com](https://lahirudx.com)
+- 💬 My Portfolio  [lahirudx.dev](https://lahirudx.dev)
 
 ### 📫 Reach me at 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/lahirudx_dev.svg?style=social&label=Follow%20lahirudx_dev)](https://twitter.com/lahirudx_dev)
